@@ -1,0 +1,4 @@
+*.html
+ENV
+__pycache__/
+.DS_Store
